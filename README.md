@@ -46,10 +46,10 @@
 1.Landing page
 
 ## Home
-![Dashboard Preview](./screenshots/main1.png)
+![Dashboard Preview](./screenshots/Main1.png)
 
 ## Home(Kiswahili)
-![Dashboard Preview](./screenshots/main2.png)
+![Dashboard Preview](./screenshots/Main2.png)
 
 ## Authors
 
