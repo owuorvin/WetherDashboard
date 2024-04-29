@@ -1,0 +1,12 @@
+{
+  "Min": "Min",
+  "Max": "Max",
+  "Humidity": "Humidity",
+  "Pressure": "Pressure",
+  "Wind": "Wind Speed",
+  "Sunset": "Sunset",
+  "FeelsLike": "Feels like",
+  "Rain": "Rain",
+  "Temp": "Temp",
+  "OfRain": "of rain"
+}
