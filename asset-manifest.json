@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2cd5df3.css",
+    "main.js": "/static/js/main.147bacdb.js",
+    "static/js/453.4c5811d9.chunk.js": "/static/js/453.4c5811d9.chunk.js",
+    "static/media/mostlysunny.svg": "/static/media/mostlysunny.259bd78347ff1b43d6e11752a92261ec.svg",
+    "static/media/mostlycloudy.svg": "/static/media/mostlycloudy.f9d38b756fee8e081a028a552769cba4.svg",
+    "static/media/partlysunny.svg": "/static/media/partlysunny.62bd566c7f247a640ef11a6d5b18551a.svg",
+    "static/media/chancerain.svg": "/static/media/chancerain.35f31a8ed33da3618abe1e9217dd1725.svg",
+    "static/media/flurries.svg": "/static/media/flurries.caa6628664bb98375cdac20cd4108e26.svg",
+    "static/media/tstorms.svg": "/static/media/tstorms.a0bbf9d10f2424e9fced6b55b760c239.svg",
+    "static/media/unknown.svg": "/static/media/unknown.f69bb01d3daa2620f31c962f8f42b1f9.svg",
+    "static/media/sunny.svg": "/static/media/sunny.77f26d51c26ca082233f7c5f1c3b5f5c.svg",
+    "static/media/chanceflurries.svg": "/static/media/chanceflurries.958ed1d2febe990c61f0102524f8be71.svg",
+    "static/media/rain.svg": "/static/media/rain.67647b02a748a5cd4359c81d398f48be.svg",
+    "static/media/chancesleet.svg": "/static/media/chancesleet.26ea3a8f8c7597d3497343b3c8fd6ea4.svg",
+    "static/media/chancetstorms.svg": "/static/media/chancetstorms.83714d4e0473ad000c417618fed073c8.svg",
+    "static/media/hazy.svg": "/static/media/hazy.1e1a5a7ac3058ece7293b5145345aa3f.svg",
+    "static/media/fog.svg": "/static/media/fog.916e135b1ed83b09fff1e2cabfc0c92c.svg",
+    "static/media/cloudy.svg": "/static/media/cloudy.55b35e08fea3ca126d8f68a7f1176fff.svg",
+    "index.html": "/index.html",
+    "main.c2cd5df3.css.map": "/static/css/main.c2cd5df3.css.map",
+    "main.147bacdb.js.map": "/static/js/main.147bacdb.js.map",
+    "453.4c5811d9.chunk.js.map": "/static/js/453.4c5811d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cd5df3.css",
+    "static/js/main.147bacdb.js"
+  ]
+}
